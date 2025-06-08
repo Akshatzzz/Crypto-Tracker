@@ -1,6 +1,6 @@
-package com.plcoding.cryptotracker.util
+package com.akshat.cryptotracker.util
 
-import com.plcoding.cryptotracker.R
+import com.akshat.cryptotracker.R
 
 fun getDrawableIdForCoin(symbol: String): Int {
     return when (symbol.uppercase()) {

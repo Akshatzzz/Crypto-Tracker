@@ -1,4 +1,4 @@
-package com.plcoding.cryptotracker.util
+package com.akshat.cryptotracker.util
 
 typealias DomainError = Error
 
